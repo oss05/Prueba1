@@ -1,0 +1,10 @@
+*{
+    background: blue;
+}
+
+.plecaNotaEntrevistas {
+    border-top: solid 10px #2862FB;
+    border-bottom: solid 15px #2862FB;
+    margin-bottom: 4vh; 
+    color:#c2c2c2;
+  }
